@@ -58,3 +58,9 @@ docker run --rm --name nginx --network host nginx
 ```shell
 curl http://host.docker.internal:<port>
 ```
+
+
+## Dockerize
+
+https://github.com/jwilder/dockerize
+
